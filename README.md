@@ -1,5 +1,7 @@
 # aMod-Extended-Rankings
 
+(Updated new Themes and Modules for latest FluxCP) 11/2015
+
 Extract the modules and theme folder inside your FluxCP Root directory
 
 You can now browse your extended WoE and BG Rankings
