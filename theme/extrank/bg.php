@@ -166,7 +166,7 @@ $Rank = array(
 								<span class="not-applicable">Unknown</span>
 							<?php endif ?>
 							<?php echo "<BR>" . $playerLadder->max_hp . " / " . $playerLadder->max_sp . "<BR>"; ?>
-							<a href="?module=earank&action=bprofile&cid=<?php echo $playerLadder->char_id; ?>"></a><BR><BR><BR>
+							<BR><BR><BR>
 							
 
 							Week Score<br>
