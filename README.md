@@ -1,27 +1,27 @@
 # aMod-Extended-Rankings
 
-(Updated new Themes and Modules for latest FluxCP) 11/2015
+**(Updated new Themes and Modules for latest FluxCP) 11/2015**
 
-Extract the modules and theme folder inside your FluxCP Root directory
+* Extract the modules and theme folder inside your FluxCP Root directory
 
-You can now browse your extended WoE and BG Rankings
+* You can now browse your extended WoE and BG Rankings
 
-Just add this on your website link
+* Just add this on your website link
 
-?module=extrank&action=woe
+*?module=extrank&action=woe*
 
-?module=extrank&action=bg
+*?module=extrank&action=bg*
 
 Example 
 
-http://athenaRO.com/?module=extrank&action=woe
+>http://athenaRO.com/?module=extrank&action=woe
 
-http://athenaRO.com/?module=extrank&action=bg
+>http://athenaRO.com/?module=extrank&action=bg
 
-Extended Rankings work on all emulators
+Extended Ranking works on all athena and hybrid emulators
 
 
 
 Thank you!
 
-From eAthena, rAthena, brAthena, Hercules dev Team.
+**From _eAthena_, _rAthena_, _brAthena_, _Hercules_ dev Team.**
