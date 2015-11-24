@@ -103,5 +103,4 @@ $sth  = $server->connection->getStatement($sql);
 $sth->execute($bind);
 $playerLadder = $sth->fetchAll();
 
-
 ?>
